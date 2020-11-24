@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
+.header{
+    background-color: red;
+    color: white;
+}
