@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
+/*
+    the heading section
+*/
 .header{
     background-color: red;
     color: white;
@@ -26,4 +29,19 @@
 .subscribe{
     border-radius: 15px;
     background-color: yellow;
+    border: 2px solid yellow;
+}
+/*
+    the nav links
+*/
+/* Modify the backgorund color */ 
+.navbar-custom{ 
+    font-size: 15px;
+    font-weight: bold; 
+    color: black;
+    padding-bottom: 10px;
+} 
+.vl{
+    border-left: 2px solid gray;
+    height: 25px;
 }
